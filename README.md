@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Oafare
+- Not a coder, but seeking full stackers and @Kamrock or others familiar with Travelpayouts travel app to build out one for Oafare's site. 
